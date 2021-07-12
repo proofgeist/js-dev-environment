@@ -1,5 +1,3 @@
-function showText() {
-  alert("Hello World");
-}
+import "bootstrap/dist/css/bootstrap.min.css";
 
-showText();
+document.getElementById("click").addEventListener("click", () => alert("HI"));
