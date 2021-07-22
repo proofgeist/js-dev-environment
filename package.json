@@ -15,10 +15,10 @@
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^5.0.2",
-    "fm-webviewer-fetch": "^1.1.0",
-    "open": "^8.2.1"
+    "fm-webviewer-fetch": "^1.1.0"
   },
   "devDependencies": {
+    "open": "^8.2.1",
     "parcel-bundler": "^1.12.5",
     "parcel-plugin-inliner": "^1.0.16"
   }
