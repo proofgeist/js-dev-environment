@@ -1,9 +1,7 @@
 # JS Dev Environment for FileMaker Developers
 
 *Develop, Render, and Deploy JavaScript for a FileMaker App*
-<br/>
-<br/>
-<br/>
+
 # This Environment
 ## What it does
 This environment allows a FileMaker developer to start coding their widget and see the results right away in a FileMaker file. Once done developing, the can be inlined and pushed to the FileMaker file for use offline.
