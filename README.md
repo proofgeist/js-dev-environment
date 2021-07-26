@@ -12,6 +12,17 @@ With a proper JS-in-FM development environment, FileMaker developers have most o
 This course will immerse you in the environment. By the end of your stay, you’ll be fluent in creating simple and complex problem-solving widgets for your application. Through studying the content and practicing for yourself, you’ll feel at ease with this entire workflow.
 
 
+# The Environment
+### What it does
+This environment allows a FileMaker developer to start coding their widget and see the results right away in a FileMaker file. Once done developing, the can be inlined and pushed to the FileMaker file for use offline.
+### Consists of
+- A repository template on Github
+- A basic html / JS set up.
+- package.json file for install
+- A FileMaker file to show the widget rendered
+- Scripts to build and upload the inlined code to FileMaker
+
+# The Course
 ## Essential Question
 
 As a busy FileMaker developer, how do I build widgets efficiently and consistently?
@@ -53,5 +64,4 @@ The end result will be to take the dev environment and produce something on your
 5. JS ES6 code syntax
 6. Loading code in a web viewer methods
 7. Calling FileMaker for data
-
 
