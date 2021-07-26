@@ -15,7 +15,8 @@
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^5.0.2",
-    "fm-webviewer-fetch": "^1.1.0"
+    "fm-webviewer-fetch": "^1.1.0",
+    "regenerator-runtime": "^0.13.9"
   },
   "devDependencies": {
     "open": "^8.2.1",
