@@ -2,6 +2,15 @@
 
 *Develop, Render, and Deploy JavaScript for a FileMaker App*
 
+
+# TO GET STARTED Using this file
+1. `npm install`
+2. `npm start`
+3. Open the jsDev.fmp12 file.
+4. Allow it to work in Dev mode.
+***
+
+# The Context of this set up
 ## Problem Statement
 
 There’s always been quite the barrier in JavaScript development in FileMaker. This wall is made up of different pieces: knowing JavaScript, writing code efficiently, seeing how it works in FileMaker, using data from FileMaker, and deploying to the app. 
