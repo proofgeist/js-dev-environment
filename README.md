@@ -19,7 +19,7 @@ It's a template file, so you can use to start other projects.
 3. Open the jsDev.fmp12 file.
 4. Allow it to work in Dev mode.
 
-At this point you should see the web viewer on the layout load up with the HTML and JavaScript here.
+At this point you should see the web viewer on the layout load up with the HTML and JavaScript here. Edit the JavaScript or the HTML, and you'll see the render in the web viewer update.
 
 ***
 
