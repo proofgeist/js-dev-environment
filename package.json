@@ -1,11 +1,10 @@
 {
   "name": "js-dev-environment",
-  "version": "1.0.0",
-  "description": "a generic development enviornment for developing JS in FileMaker",
-  "main": "index.html",
+  "version": "1.1.0",
+  "description": "A generic development enviornment for developing JS in FileMaker",
   "scripts": {
-    "start": "parcel public/index.html  --no-source-maps",
-    "build": "parcel build public/index.html -d dist --no-source-maps",
+    "start": "parcel public/index.html --no-source-maps",
+    "build": "parcel build public/index.html --no-source-maps",
     "upload": "node ./scripts/upload",
     "build:upload": "npm run build && npm run upload",
     "openfile": "node ./scripts/openFileOnServer",
@@ -20,7 +19,6 @@
   },
   "devDependencies": {
     "open": "^8.2.1",
-    "parcel-bundler": "^1.12.5",
-    "parcel-plugin-inliner": "^1.0.16"
+    "parcel": "^2.0.0-rc.0"
   }
 }
