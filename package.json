@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "open": "^8.2.1",
-    "parcel-bundler": "^1.12.5",
+    "parcel-bundler": "^1.9.4",
     "parcel-plugin-inliner": "^1.0.16"
   }
 }
